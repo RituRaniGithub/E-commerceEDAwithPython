@@ -1,12 +1,10 @@
 # E-commerceEDAwithPython
 
-## Overview
+This project aims to analyze and gain insights from e-commerce sales using Python. Through EDA, we aim to answer specific questions about the dataset and understand its characteristics.
+
+## Dataset
 
 This dataset contains synthetic data of product sales in an e-commerce platform, generated using random functions in Python. It is created for practice and learning purposes and does not represent any real company. The dataset may contain anomalies and should be used solely for practice. https://www.kaggle.com/datasets/raniritu/ecommercedata
-
-## Objective
-
-The main objective is to perform exploratory data analysis (EDA) and gain insights from e-commerce sales. Through EDA, we aim to answer specific questions about the dataset and understand its characteristics.
 
 ## Questions to Answer
 
